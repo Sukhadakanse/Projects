@@ -1,0 +1,37 @@
+<html>
+<head>
+ <title>e-voting system for 2021</title>
+</head>
+<body bgcolor="blue"></body>
+<fieldset> 
+<legend>e-voting system</legend>
+<table border="5">
+<tr>
+<td>First name</td><td><input type="text">
+</tr>
+<tr>
+<td>last name</td><td><input type="text">
+</tr>
+<tr>
+<td>address name</td><td><input type="text">
+</tr>
+<tr>
+<td>candidate name<td><select>
+<option>modi</option>
+<option>gandhi</option>
+<option>thakre</option>
+<option>default</option>
+</tr>
+<td>Party name<td><select>
+<option>BJP</option>
+<option>Congres</option>
+<option>Shev shena</option>
+<option>default</option>
+</tr>
+<tr>
+<td>Sex</td><td><input type="radio"name="e">Male<input type="radio" name="e">female</td></tr>
+</td></tr></table><input type="SUBMIT" value="SUBMIT">
+</fieldset>
+
+
+</html>
